@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\bin\Debug\InterestsAnalysisVK.exe.config
+C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\bin\Debug\InterestsAnalysisVK.exe
+C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\bin\Debug\InterestsAnalysisVK.pdb
+C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\InterestsAnalysisVK.csprojResolveAssemblyReference.cache
+C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\InterestsAnalysisVK.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\InterestsAnalysisVK.exe
+C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\InterestsAnalysisVK.pdb
