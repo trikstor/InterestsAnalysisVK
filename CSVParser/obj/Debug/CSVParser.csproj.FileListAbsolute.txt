@@ -1,7 +1,0 @@
-C:\Users\Acer\source\repos\InterestsAnalysisVK\CSVParser\bin\Debug\CSVParser.exe.config
-C:\Users\Acer\source\repos\InterestsAnalysisVK\CSVParser\bin\Debug\CSVParser.exe
-C:\Users\Acer\source\repos\InterestsAnalysisVK\CSVParser\bin\Debug\CSVParser.pdb
-C:\Users\Acer\source\repos\InterestsAnalysisVK\CSVParser\obj\Debug\CSVParser.csprojResolveAssemblyReference.cache
-C:\Users\Acer\source\repos\InterestsAnalysisVK\CSVParser\obj\Debug\CSVParser.csproj.CoreCompileInputs.cache
-C:\Users\Acer\source\repos\InterestsAnalysisVK\CSVParser\obj\Debug\CSVParser.exe
-C:\Users\Acer\source\repos\InterestsAnalysisVK\CSVParser\obj\Debug\CSVParser.pdb

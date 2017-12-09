@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A3115DD9-7717-45AC-9BBF-1A0DD88CC08B}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <RootNamespace>InterestsAnalysisVK</RootNamespace>
     <AssemblyName>InterestsAnalysisVK</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>

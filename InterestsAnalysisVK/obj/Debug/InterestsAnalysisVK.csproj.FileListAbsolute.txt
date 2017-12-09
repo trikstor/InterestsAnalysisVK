@@ -5,3 +5,9 @@ C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\Int
 C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\InterestsAnalysisVK.csproj.CoreCompileInputs.cache
 C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\InterestsAnalysisVK.exe
 C:\Users\Acer\source\repos\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\InterestsAnalysisVK.pdb
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\InterestsAnalysisVK\bin\Debug\InterestsAnalysisVK.pdb
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\InterestsAnalysisVK.csproj.CoreCompileInputs.cache
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\InterestsAnalysisVK.pdb
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\InterestsAnalysisVK\bin\Debug\InterestsAnalysisVK.dll.config
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\InterestsAnalysisVK\bin\Debug\InterestsAnalysisVK.dll
+C:\Users\Acer\RiderProjects\InterestsAnalysisVK\InterestsAnalysisVK\obj\Debug\InterestsAnalysisVK.dll
